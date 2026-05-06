@@ -112,7 +112,7 @@ const Navbar = ({darkMode, toggleDarkMode}) => {
                     </motion.button>
                     
                 {/* Aqui me quede min 15:11 */}
-
+{/* test */}
 
                 </div>
             </motion.nav>
